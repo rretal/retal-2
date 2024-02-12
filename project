@@ -1,0 +1,60 @@
+*final project :
+<html>
+  <head><title> "Information about me"</title></head>
+  <body>
+    <img src="https://i.postimg.cc/NyK6rcFY/423147434-1047607523006138-2812330718027542857-n.jpg' border='0' alt='423147434-1047607523006138-2812330718027542857-n'" width ="250" height="200">
+    <py-script><h1> Retal</h1>  </py-script>
+    <p><py-script>My name :Retal ahmad ismail abu alarayes.</py-script></p>
+    <p><py-script>My age : 18 . </py-script></p>
+    <p><py-script>Religion : islam. </py-script></p>
+    <p><py-script>My date of birth :22-6-2005</py-script></p>
+    <p><py-script> My family :3 brothers and no sisters.</py-script></p>
+    <p><py-script> My education level :first year of university (philadelphia uni : software engineering).</py-script></p>
+    <p><py-script>Adress :Jordan-Amman.</py-script></p>
+    <p><py-script> Hobbies :reading, knitting, writing, skating.</py-script></p>
+    <p><py-script> Pets :parrot.</py-script></p>
+  </body>
+</html>
+
+(الخطوات :(بالاول بايثون 
+def retal():
+    
+    print("Name: Retal ahmad ismail abu alarayes .")
+    print("AGE: 18 .")
+    print("Religion : islam.")
+    print("My date of birth :22 - 6 - 2005 .")
+    print("My family :3 brothers and no sisters.")
+    print("My education level :first year of university (philadelphia uni : software engineering).")
+    print("Adress :Jordan-Amman.")
+    print("Hobbies :reading, knitting, writing, skating.")
+    print("Pets :parrot.")
+    
+def main():
+    
+   (retal()) 
+
+if __name__ == "__main__":
+   (main())
+
+(ثاني خطوة html ):
+
+<html>
+  <head><title> "Information about me"</title></head>
+    <body>
+        <img src= "https://i.postimg.cc/NyK6rcFY/423147434-1047607523006138-2812330718027542857-n.jpg' border='0' alt='423147434-1047607523006138-2812330718027542857-n'" width ="250" height="200">
+        <h1> Retal</h1>
+        <p>My name :Retal ahmad ismail abu alarayes.</p>
+        <p>My age : 18.</p>
+        <p> Religion : islam.</p>
+        <p>My date of birth :22-6-2005 .</p>
+        <p>My family :3 brothers and no sisters.</p>
+        <p> My education level :first year of university (philadelphia uni : software engineering).</p>
+        <p>Adress :Jordan-Amman.</p>
+        <p> Hobbies :reading, knitting, writing, skating.</p>
+        <p>Pets :parrot.</p>
+    </body> 
+</html>
+  
+  
+  
+  
